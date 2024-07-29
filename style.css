@@ -382,12 +382,11 @@ footer{
     border: 0.5px solid rgb(152, 149, 149);
     border-radius: 4px;
     height: 5px;
-    width: 5%;
-    padding:1% 4% 1% 1%;
-    margin-right:10% ;
+    width: 40px;
+    padding:1% 4% 1% 4%;
     margin-left:2.9%;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
 }
 .languageselect i{
