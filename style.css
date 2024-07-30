@@ -44,8 +44,9 @@
     height: 15px;
     width: 60%;
     margin-right:10% ;
+   margin-left: 2%;
    padding-right: 15%;
-   padding-left: 4%;
+   padding-left: 8%;
    padding-top: 3%;
    padding-bottom: 3%;
    display: flex;
